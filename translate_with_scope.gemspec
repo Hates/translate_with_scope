@@ -4,8 +4,8 @@ require File.expand_path('../lib/translate_with_scope/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Richard Hart"]
   gem.email         = ["richard@ur-ban.com"]
-  gem.description   = %q{TODO: Translate a scope to the current controller and action}
-  gem.summary       = %q{TODO: Translate a scope to the current controller and action}
+  gem.description   = %q{Translate a scope to the current controller and action}
+  gem.summary       = %q{Translate a scope to the current controller and action}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
